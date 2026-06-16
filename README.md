@@ -7,7 +7,7 @@ A fully local Retrieval-Augmented Generation system. Documents are indexed local
 ## Architecture
 
 
-![Architecture diagram](docs/Architecture.WEBP)
+![Architecture diagram](docs/Architecture.webp)
 
 
 ---
