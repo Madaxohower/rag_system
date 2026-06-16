@@ -17,7 +17,7 @@ A fully local Retrieval-Augmented Generation system. Documents are indexed local
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/Madaxohower/rag_system.git
 cd rag-system
 python -m venv venv
 source venv/bin/activate       # Windows: venv\Scripts\activate
